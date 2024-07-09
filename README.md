@@ -8,4 +8,4 @@ Consumo de API para consultar y persistir libros/autores estableciendo relacione
 ![tabla libros](/utils/Tabla_Libros.png)
 
 ## Codigo en ejecución
-![Ejecucion](/utils/Codigo ejecucion.png)
+![Ejecucion](/utils/Codigo_ejecucion.png)
